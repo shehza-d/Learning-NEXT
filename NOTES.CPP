@@ -15,6 +15,12 @@ rahe hyn server components per direct async await supported hy
 getStaticProps() se data build time per generate hota hy [one time]
 request time per data fetch karna hy with getServerSideProps()
 
+09-Mar-2023
+serverless ma lamda function run hota hy
+aur ye scalable hota hy
+
+getStaticPath=statically generate routs
+getStaticProps=api call
 
 
 
